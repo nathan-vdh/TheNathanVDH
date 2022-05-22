@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @TheNathanVDH
-- 👀 I’m interested in DeFi and crypto
-- 🌱 I’m currently learning how to be the best degen there ever was.
-- 💞️ I’m looking to collaborate on DeFi, journalism, investigative stories.
-- 📫 Reach me on Twitter @_NathanVDH
+- 👀 I’m interested in DAOs and decentralized governance.
+- 🌱 I’m currently learning how to fix coordination problems.
+- 💞️ I’m looking to collaborate on DAO tooling.
+- 📫 Reach me on Twitter @NathanVDH0x
 
 <!---
 TheNathanVDH/TheNathanVDH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
