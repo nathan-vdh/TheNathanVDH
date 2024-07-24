@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @TheNathanVDH
+- 👋 Hi, I’m @nathan-vdh
 - 👀 I’m interested in DAOs and decentralized governance.
 - 🌱 I’m currently learning how to fix coordination problems.
-- 💞️ I’m looking to collaborate on DAO tooling.
 - 📫 Reach me on Twitter @NathanVDH0x
 
 <!---
